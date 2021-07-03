@@ -1,11 +1,11 @@
 body {
-  font-family: arial, sans-serif;
+  font-family: "Exo 2", sans-serif;
 }
 
 h1 {
   color: #17828a;
   font-size: 24px;
-  font-weight: 100;
+  font-weight: bold;
   line-height: 28px;
   margin-bottom: 0;
 }
@@ -38,7 +38,7 @@ li:first-letter {
 .weather-app {
   padding: 50px;
   border: 1px solid #dadde1;
-  border-radius: 5px;
+  border-radius: 15px;
   background: radial-gradient(
     circle at 14.2% 27.5%,
     rgb(244, 250, 155) 0%,
