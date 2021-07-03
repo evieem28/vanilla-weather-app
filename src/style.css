@@ -60,7 +60,7 @@ li:first-letter {
   color: #17828a;
   font-size: 64px;
   line-height: 1;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 .weather-temperature .units {
@@ -85,7 +85,7 @@ li:first-letter {
 }
 
 .weather-forecast-date {
-  font-size: 16px;
+  font-size: 20px;
   opacity: 0.5;
 }
 
@@ -94,5 +94,5 @@ li:first-letter {
 }
 
 .weather-forecast-temperatures {
-  font-size: 13px;
+  font-size: 17px;
 }
